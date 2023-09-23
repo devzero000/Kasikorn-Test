@@ -21,3 +21,4 @@ a = [5, 2, 3, 4, 10]
 b = [10]
 
 print(can_solve(a, b))
+# ~O(N^2 + NM)
