@@ -1,0 +1,38 @@
+{
+  "campaign": {
+    "data": [
+      {
+        "filename": "x.txt",
+        "effdate": "2022/10/10",
+        "remark": "vv"
+      },
+      {
+        "filename": "y.txt",
+        "effdate": "2022/11/10",
+        "remark": "kk"
+      },
+      {
+        "filename": "z.txt",
+        "effdate": "2022/11/10",
+        "remark": "gg"
+      }
+    ],
+    "interest": [
+      [
+        "interest rate",
+        12,
+        24
+      ],
+      [
+        1000,
+        0.01,
+        0.02
+      ],
+      [
+        2000,
+        0.02,
+        0.03
+      ]
+    ]
+  }
+}
